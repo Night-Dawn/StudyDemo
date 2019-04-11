@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Night_Dawn\\source\\repos\\Bing Picture\\Bing Picture\\Bing Picture.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

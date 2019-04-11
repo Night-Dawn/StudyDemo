@@ -1,0 +1,23 @@
+﻿@using Bing_Picture.ViewModels
+@model PictureViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+    <div >
+        <h2 class="col-md-3">Details</h2>
+        <a asp-action="Index" class="btn btn-info float-md-right">返回列表</a>
+    </div>
+
+    <div class="jumbotron">
+        <div class="container">
+
+            <img src="https://cn.bing.com@{@Model.url}" class="img-responsive" alt="@Model.copyright" style="width:1000px;max-width:100%;height:auto;" />
+            <div class="row ">
+                <label asp-for="startdate" class="text-right"> </label>
+                <h5 class="invalid">:@Model.startdate</h5>
+            </div>
+            <div class="container ">
+                <h6  class="float-right" align-right data-toggle="tooltip" data-placement="left" title="@Model.copyright">&copy;copyright</h6>
+            </div>
+        </div>
+     </div>

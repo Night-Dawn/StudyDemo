@@ -1,0 +1,70 @@
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.deps.json
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.runtimeconfig.json
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.runtimeconfig.dev.json
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.dll
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.pdb
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.Views.dll
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.Views.pdb
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.csprojAssemblyReference.cache
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.csproj.CoreCompileInputs.cache
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorAssemblyInfo.cache
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorAssemblyInfo.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.AssemblyInfoInputs.cache
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.AssemblyInfo.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.TagHelpers.input.cache
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.TagHelpers.output.cache
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorCoreGenerate.cache
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Picture\Index.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Picture\_PictureCard.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorTargetAssemblyInfo.cache
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorTargetAssemblyInfo.cs
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.Views.pdb
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.dll
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.pdb
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.csproj.CopyComplete
+C:\Users\Night_Dawn\source\repos\Bing Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Picture\Details.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.deps.json
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.runtimeconfig.json
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.runtimeconfig.dev.json
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.dll
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.pdb
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.Views.dll
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\bin\Release\netcoreapp2.2\Bing Picture.Views.pdb
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.csprojAssemblyReference.cache
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.csproj.CoreCompileInputs.cache
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorAssemblyInfo.cache
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorAssemblyInfo.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.AssemblyInfoInputs.cache
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.AssemblyInfo.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.TagHelpers.input.cache
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.TagHelpers.output.cache
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorCoreGenerate.cache
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Picture\Details.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Picture\Index.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Picture\_PictureCard.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorTargetAssemblyInfo.cache
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.RazorTargetAssemblyInfo.cs
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.Views.pdb
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.dll
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.pdb
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Release\netcoreapp2.2\Bing Picture.csproj.CopyComplete

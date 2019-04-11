@@ -1,0 +1,18 @@
+﻿@using Bing_Picture.ViewModels
+@model IEnumerable<PictureViewModel>
+
+@{ 
+    ViewBag.Title = "Bing Picture";
+}
+
+    <div class="container">
+        <h2>Bing 壁纸</h2>
+        <div class="row">
+            @foreach (var img in @Model)
+            {
+                <div class="col-sm-12 col-md-6 col-lg-4 py-3 px-lg-5 ">
+                    <partial name="_PictureCard" model="img" />
+                </div>
+            }
+        </div>
+    </div>
