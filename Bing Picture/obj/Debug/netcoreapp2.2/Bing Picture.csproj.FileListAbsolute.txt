@@ -68,3 +68,4 @@ C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Debug\netcoreapp2
 C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Debug\netcoreapp2.2\Bing Picture.dll
 C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Debug\netcoreapp2.2\Bing Picture.pdb
 C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Debug\netcoreapp2.2\Bing Picture.csproj.CopyComplete
+C:\Users\Night_Dawn\source\repos\Bing_Picture\Bing Picture\obj\Debug\netcoreapp2.2\Razor\Views\Music\Index.g.cshtml.cs

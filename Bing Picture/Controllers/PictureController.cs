@@ -25,6 +25,10 @@ namespace Bing_Picture.Controllers
         public async Task<ActionResult> Index()
         {
             var images = await pictureService.GetAllAsync();
+            if (images == null)
+            {
+                return RedirectToAction("获取服务失败!");
+            }
             var list= images.images.ToList();
             var picture = list.Select(x => new PictureViewModel {
                 url = x.url,

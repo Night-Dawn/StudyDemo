@@ -1,0 +1,47 @@
+﻿@using Bing_Picture.ViewModels
+@model IEnumerable<MusicViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+    <div class="container">
+        <div class="row ">
+            <div class="col-md-9" style="height:600px;overflow-x:auto;overflow:scroll;" >
+                <div class="row">
+                    <span class="col-md-2 text-info">歌曲名字</span><span class="col-md-2 text-info">歌曲时长</span><span class="col-md-2 text-info">歌手</span>
+                </div>
+                    @foreach (var m in Model)
+                    {
+            <div class="list-group " >
+                <div readonly class="list-group-item list-group-item-action ">
+                    <button type="button" onclick="$(function () {
+                            $('#music').attr('src', '@m.url');
+                            $('#pic').attr('src', '@m.pic');
+                            $('#name').text('@m.name');
+                            $('#music').attr('autoplay', 'autoplay');
+                         })" class="btn btn-default rounded-circle">
+                        <i class="fas fa-play"></i>
+                    </button>
+                
+                <span class="col-md-2">@m.name</span>
+                <span class="col-md-2">@m.time</span>
+                <span class="col-md-2">@m.singer</span></div>
+                </div>
+                    }
+                
+            </div>
+            <div class="col-md-3 " style="position:relative;">
+                <p class="text-primary float-left">当前音乐：<div class="float-md-none" id="name" ></div></p>
+                <img style="width:300px;" class="rounded-circle" id="pic" />
+
+                <audio controls autoplay  id="music"></audio>
+
+            </div>
+
+
+        </div>
+        
+    </div>
+   
+   
+ 

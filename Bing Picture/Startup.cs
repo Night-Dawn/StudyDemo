@@ -39,8 +39,10 @@ namespace Bing_Picture
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddScoped<IPictureService, PictureEfService>();
-            services.AddTransient<PictureContext>();
+            services.AddSingleton<IPictureService, PictureEfService>();
+            services.AddSingleton<IMusicService, MusicEfService>();
+            services.AddSingleton<PictureContext>();
+            services.AddSingleton<MusicContext>();
             services.AddDefaultIdentity<IdentityUser>(options =>
                 {
                     options.Password.RequireDigit = false;
